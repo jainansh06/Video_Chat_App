@@ -25,7 +25,8 @@ SECRET_KEY = 'django-insecure-xu*fy*6nojc@fuqaklm@w(nism(dexho^(el98-t%v2z=k4%w(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['video-chat-app-5ni3.onrender.com', '127.0.0.1','0.0.0.0' 'localhost']
+ALLOWED_HOSTS = ['video-chat-app-5ni3.onrender.com','0.0.0.0']
+
 
 # Application definition
 
